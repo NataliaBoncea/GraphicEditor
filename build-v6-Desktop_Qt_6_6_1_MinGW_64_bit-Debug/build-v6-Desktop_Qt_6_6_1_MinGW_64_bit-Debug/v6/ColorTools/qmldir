@@ -1,0 +1,12 @@
+module ColorTools
+typeinfo ColorPicker.qmltypes
+prefer :/ColorTools/
+ColorTool 1.0 ColorTool.qml
+ColorHistory 1.0 ColorHistory.qml
+ColorSampler 1.0 ColorSampler.qml
+ColorPicker 1.0 ColorPicker.qml
+RGBSlider 1.0 RGBSlider.qml
+HSVSlider 1.0 HSVSlider.qml
+ColorSlider 1.0 ColorSlider.qml
+ColorPickerDialog 1.0 ColorPickerDialog.qml
+

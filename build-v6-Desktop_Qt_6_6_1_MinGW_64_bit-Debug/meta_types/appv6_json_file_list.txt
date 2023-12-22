@@ -1,0 +1,8 @@
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appv6_autogen/include/../EWIEGA46WW/moc_colorhistorymodel.cpp.json
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appv6_autogen/include/../EWIEGA46WW/moc_colorpicker_p.cpp.json
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appv6_autogen/include/../EWIEGA46WW/moc_colorpickerpreview.cpp.json
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appv6_autogen/include/../EWIEGA46WW/moc_colorsampler_p.cpp.json
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appv6_autogen/include/../EWIEGA46WW/moc_colorslider_p.cpp.json
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appv6_autogen/include/../EWIEGA46WW/moc_colortool_p.cpp.json
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appv6_autogen/include/../EWIEGA46WW/moc_colorwheel.cpp.json
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appv6_autogen/include/../EWIEGA46WW/moc_textfielddoublevalidator.cpp.json

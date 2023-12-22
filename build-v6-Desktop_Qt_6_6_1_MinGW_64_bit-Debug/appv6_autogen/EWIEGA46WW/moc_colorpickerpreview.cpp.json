@@ -1,0 +1,100 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "ColorPickerPreview",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newMousePosition",
+                            "type": "QPointF"
+                        }
+                    ],
+                    "name": "setMousePosition",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "previewSize",
+                    "notify": "previewSizeChanged",
+                    "read": "previewSize",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false,
+                    "write": "setPreviewSize"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "size",
+                    "notify": "sizeChanged",
+                    "read": "size",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "qreal",
+                    "user": false,
+                    "write": "setSize"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "mousePosition",
+                    "notify": "mousePositionChanged",
+                    "read": "mousePosition",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QPointF",
+                    "user": false,
+                    "write": "setMousePosition"
+                }
+            ],
+            "qualifiedClassName": "ColorPickerPreview",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "previewSizeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "sizeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "mousePositionChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QQuickPaintedItem"
+                }
+            ]
+        }
+    ],
+    "inputFile": "colorpickerpreview.h",
+    "outputRevision": 68
+}

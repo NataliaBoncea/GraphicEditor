@@ -1,0 +1,132 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "ColorPicker_p",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newColor",
+                            "type": "QColor"
+                        }
+                    ],
+                    "name": "setColor",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "mousePosition",
+                            "type": "QPointF"
+                        }
+                    ],
+                    "name": "eyedrop",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newOldColor",
+                            "type": "QColor"
+                        }
+                    ],
+                    "name": "setOldColor",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "startPicking",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "revertPicking",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "color",
+                    "notify": "colorChanged",
+                    "read": "color",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QColor",
+                    "user": false,
+                    "write": "setColor"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "oldColor",
+                    "notify": "oldColorChanged",
+                    "read": "oldColor",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QColor",
+                    "user": false,
+                    "write": "setOldColor"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "picking",
+                    "notify": "pickingChanged",
+                    "read": "picking",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setPicking"
+                }
+            ],
+            "qualifiedClassName": "ColorPicker_p",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "colorChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "pickingChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "oldColorChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "colorpicker_p.h",
+    "outputRevision": 68
+}

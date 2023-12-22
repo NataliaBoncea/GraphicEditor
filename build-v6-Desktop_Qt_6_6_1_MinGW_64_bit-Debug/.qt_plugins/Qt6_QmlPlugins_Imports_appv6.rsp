@@ -1,0 +1,14 @@
+-rootPath
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/v6
+-cmake-output
+-output-file
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake
+-importPath
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6
+-importPath
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.6.1/mingw_64/./qml
+-qrcFiles
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmake_v6.qrc
+E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/appv6_raw_qml_0.qrc

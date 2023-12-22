@@ -1,0 +1,156 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "ColorTool_p",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newPrimary",
+                            "type": "QColor"
+                        }
+                    ],
+                    "name": "setPrimary",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newSecondary",
+                            "type": "QColor"
+                        }
+                    ],
+                    "name": "setSecondary",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "swap",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newCurrentColor",
+                            "type": "QColor"
+                        }
+                    ],
+                    "name": "setCurrentColor",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "swapSwatchPlane",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "reset",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "primary",
+                    "notify": "primaryChanged",
+                    "read": "primary",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QColor",
+                    "user": false,
+                    "write": "setPrimary"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 1,
+                    "name": "secondary",
+                    "notify": "secondaryChanged",
+                    "read": "secondary",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QColor",
+                    "user": false,
+                    "write": "setSecondary"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 2,
+                    "name": "currentColor",
+                    "notify": "currentColorChanged",
+                    "read": "currentColor",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QColor",
+                    "user": false,
+                    "write": "setCurrentColor"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 3,
+                    "name": "swapSwatch",
+                    "notify": "swapSwatchChanged",
+                    "read": "swapSwatch",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "ColorTool_p",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "primaryChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "secondaryChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "currentColorChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "swapSwatchChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "colortool_p.h",
+    "outputRevision": 68
+}

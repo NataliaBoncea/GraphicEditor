@@ -1,0 +1,87 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "ColorHistoryModel",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "row",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "at",
+                    "returnType": "QColor"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newColor",
+                            "type": "QColor"
+                        }
+                    ],
+                    "name": "append",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "clear",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "row",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "removeAt",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "historySize",
+                    "notify": "historySizeChanged",
+                    "read": "historySize",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setHistorySize"
+                }
+            ],
+            "qualifiedClassName": "ColorHistoryModel",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "historySizeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "colorhistorymodel.h",
+    "outputRevision": 68
+}

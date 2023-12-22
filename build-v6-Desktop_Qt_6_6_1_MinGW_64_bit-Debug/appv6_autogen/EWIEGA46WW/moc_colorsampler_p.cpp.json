@@ -1,0 +1,137 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "ColorSampler_p",
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newColor",
+                            "type": "QColor"
+                        }
+                    ],
+                    "name": "setColor",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "r",
+                            "type": "qreal"
+                        }
+                    ],
+                    "name": "setRed",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "g",
+                            "type": "qreal"
+                        }
+                    ],
+                    "name": "setGreen",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "b",
+                            "type": "qreal"
+                        }
+                    ],
+                    "name": "setBlue",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "a",
+                            "type": "qreal"
+                        }
+                    ],
+                    "name": "setAlpha",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "hue",
+                            "type": "qreal"
+                        }
+                    ],
+                    "name": "setHue",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "saturation",
+                            "type": "qreal"
+                        }
+                    ],
+                    "name": "setSaturation",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "value",
+                            "type": "qreal"
+                        }
+                    ],
+                    "name": "setValue",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "color",
+                    "notify": "colorChanged",
+                    "read": "color",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QColor",
+                    "user": false,
+                    "write": "setColor"
+                }
+            ],
+            "qualifiedClassName": "ColorSampler_p",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "colorChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "colorsampler_p.h",
+    "outputRevision": 68
+}
