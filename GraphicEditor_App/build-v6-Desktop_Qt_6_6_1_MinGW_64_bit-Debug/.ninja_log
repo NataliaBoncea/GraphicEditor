@@ -1,0 +1,433 @@
+# ninja log v5
+65	192	7227999612881764	v6/assets/images/GrayscaleDefault.svg	be6051d29966b8c1
+9	56	7273142018163205	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_qmlcache_loader.cpp	61551f595305af69
+83	205	7227999613041807	v6/assets/images/ColorBalancePressed.svg	dd970a5ce20d919d
+200	234	7227999614092029	v6/assets/images/2dShapesPressed.svg	20c87360543c34dc
+92	212	7227999613111821	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/ColorTools/qmldir	e6b3c7e6a853bff9
+149	216	7227999613601913	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/HSVSlider.qml	162621b713eba049
+3716	9489	7227999706378083	CMakeFiles/appv6.dir/colortool_p.cpp.obj	ef2977e9e08af8b1
+176	218	7227999613851990	v6/ColorSampler.qml	ab7aba0a5c088b37
+9	56	7273142018163205	.rcc/qmlcache/appv6_qmlcache_loader.cpp	61551f595305af69
+1005	6069	7273142078029747	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_Canva_qml.cpp.obj	b58b8e67cbddad11
+176	218	7227999613851990	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/ColorSampler.qml	ab7aba0a5c088b37
+265	338	7273142335188556	meta_types/appv6_json_file_list.txt.timestamp	577ec86c246d7c40
+149	216	7227999613601913	v6/HSVSlider.qml	162621b713eba049
+142	215	7227999613541926	v6/ColorSlider.qml	fa20212c695b704c
+142	215	7227999613541926	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/ColorSlider.qml	fa20212c695b704c
+16	63	7273140803899356	v6/SphereShape.qml	cd03e6aabf575ac2
+265	338	7273142335188556	meta_types/appv6_json_file_list.txt	577ec86c246d7c40
+169	217	7227999613801962	v6/ColorPicker.qml	50f7195a05f0632e
+19	235	7273142334143964	appv6_autogen/timestamp	abae5e4dc1392cf0
+386	418	7273142021788411	.rcc/qrc_qmake_v6.cpp	ca170c73480d38e7
+169	217	7227999613801962	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/ColorPicker.qml	50f7195a05f0632e
+9	42	7272766115832936	v6/ColorTool.qml	7cd96f562c11cd37
+9	42	7272766115832936	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/ColorTool.qml	7cd96f562c11cd37
+10	44	7273695149436490	v6/main.qml	758f81fca31e0404
+44	105	7271262434043366	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault-04.svg	39a3a15578e9deb7
+10	44	7273695149436490	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/main.qml	758f81fca31e0404
+182	218	7227999613911988	v6/assets/images/brushPressed.svg	22fbed23b50aafb1
+16	148	7227999612341663	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/ColorHistory.qml	13fdda8d8777afd1
+22	154	7227999612421656	v6/Canva.qml	f7b46f3bd36e99d1
+9	39	7272756448466226	v6/ColorPickerDialog.qml	7c9a22301631dddc
+187	223	7227999613981994	v6/assets/images/3dShapesDefault.svg	34bf000c5af60043
+19	235	7273142334143964	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appv6_autogen/mocs_compilation.cpp	abae5e4dc1392cf0
+121	246	7273695151457072	.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+22	154	7227999612421656	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/Canva.qml	f7b46f3bd36e99d1
+41	175	7227999612731716	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/GrayscalePressed.svg	436d6ad672b2a466
+9	39	7272756448466226	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/ColorPickerDialog.qml	7c9a22301631dddc
+16	148	7227999612341663	v6/ColorHistory.qml	13fdda8d8777afd1
+18	93	7271506391488726	v6/CustomButton.qml	34169345a49b69e8
+3218	3344	7227999644761407	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appv6_qmltyperegistrations.cpp	f897916f5ba69a18
+18	93	7271506391488726	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/CustomButton.qml	34169345a49b69e8
+56	187	7227999612811807	v6/assets/eyedropper.svg	b2a13bd73ad30d8a
+193	228	7227999614032007	v6/assets/images/2dShapesDefault.svg	143171fe7d5af113
+193	228	7227999614032007	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2dShapesDefault.svg	143171fe7d5af113
+41	175	7227999612731716	v6/assets/images/GrayscalePressed.svg	436d6ad672b2a466
+49	181	7227999612751728	v6/assets/images/3dShapesPressed.svg	357d8f8abc145935
+49	181	7227999612751728	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/3dShapesPressed.svg	357d8f8abc145935
+200	234	7227999614092029	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2dShapesPressed.svg	20c87360543c34dc
+265	338	7273142335188556	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/meta_types/appv6_json_file_list.txt	577ec86c246d7c40
+43	93	7272745081211692	v6/assets/images/3DPressed-05.svg	80550d89384be965
+69	106	7271262434199607	v6/assets/images/2DPressed-03.svg	9967a753716fd3ea
+19	65	7271212182359660	v6/assets/images/SaveAsPressed.svg	679cc24c1b8af377
+65	192	7227999612881764	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/GrayscaleDefault.svg	be6051d29966b8c1
+121	246	7273695151457072	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+34	104	7271262433887069	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault-02.svg	5cf6efd9cfd67d0b
+155	216	7227999613661925	v6/assets/images/brushDefault.svg	cf65d2f711d3eef9
+155	216	7227999613661925	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/brushDefault.svg	cf65d2f711d3eef9
+182	218	7227999613911988	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/brushPressed.svg	22fbed23b50aafb1
+83	205	7227999613041807	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/ColorBalancePressed.svg	dd970a5ce20d919d
+19	85	7272888356590092	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/RectangleShape.qml	af34d6f223be5b78
+187	223	7227999613981994	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/3dShapesDefault.svg	34bf000c5af60043
+522	724	7273142024591282	.rcc/qmlcache/appv6_CustomButton_qml.cpp	ab9040dd78b1d89c
+3218	3344	7227999644761407	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/appv6.qmltypes	f897916f5ba69a18
+34	169	7227999612591701	v6/assets/images/ColorBalanceDefault.svg	850a5f617e1b6ae6
+23	70	7271212182419681	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/UploadPressed.svg	950a0f56aa57cfd6
+34	169	7227999612591701	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/ColorBalanceDefault.svg	850a5f617e1b6ae6
+15	116	7273695150156841	.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+576	928	7273142026814865	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_PropertiesWindow_qml.cpp	2f0d45503ecfc741
+15	116	7273695150156841	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+19	235	7273142334143964	appv6_autogen/mocs_compilation.cpp	abae5e4dc1392cf0
+19	235	7273142334143964	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/appv6_autogen/timestamp	abae5e4dc1392cf0
+386	418	7273142021788411	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_qmake_v6.cpp	ca170c73480d38e7
+502	716	7273142024278794	.rcc/qmlcache/appv6_ColorSampler_qml.cpp	7d657116b9a292d3
+3702	9464	7227999706002409	CMakeFiles/appv6.dir/colorpicker_p.cpp.obj	b8a346e31730f3b8
+265	338	7273142335188556	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/meta_types/appv6_json_file_list.txt.timestamp	577ec86c246d7c40
+338	388	7273142335188556	meta_types/qt6appv6_debug_metatypes.json.gen	2d47140ed6020bb
+338	388	7273142335188556	meta_types/qt6appv6_debug_metatypes.json	2d47140ed6020bb
+338	388	7273142335188556	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/meta_types/qt6appv6_debug_metatypes.json.gen	2d47140ed6020bb
+338	388	7273142335188556	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/meta_types/qt6appv6_debug_metatypes.json	2d47140ed6020bb
+57	123	7272748914140370	v6/assets/images/3DDefault-05.svg	67ecaeb1dba7d01a
+3218	3344	7227999644761407	appv6_qmltyperegistrations.cpp	f897916f5ba69a18
+3218	3344	7227999644761407	v6/appv6.qmltypes	f897916f5ba69a18
+529	764	7273142024856954	.rcc/qmlcache/appv6_Canva_qml.cpp	af56fe2a5b045810
+63	126	7272748914170389	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/3DDefault-04.svg	b585a020d0c8ed01
+529	764	7273142024856954	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_Canva_qml.cpp	af56fe2a5b045810
+496	785	7273142024966007	.rcc/qmlcache/appv6_ColorHistory_qml.cpp	3b8efe51278ab7c8
+496	785	7273142024966007	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_ColorHistory_qml.cpp	3b8efe51278ab7c8
+508	760	7273142024591282	.rcc/qmlcache/appv6_ColorTool_qml.cpp	8ef8ed1e705a376d
+508	760	7273142024591282	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_ColorTool_qml.cpp	8ef8ed1e705a376d
+9	983	7273142228509974	build.ninja	b2a632c9d1cbba19
+502	716	7273142024278794	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_ColorSampler_qml.cpp	7d657116b9a292d3
+486	759	7273142024591282	.rcc/qmlcache/appv6_ColorSlider_qml.cpp	2717adcf07f5c61b
+34	104	7271262433887069	v6/assets/images/2DDefault-02.svg	5cf6efd9cfd67d0b
+486	759	7273142024591282	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_ColorSlider_qml.cpp	2717adcf07f5c61b
+522	724	7273142024591282	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_CustomButton_qml.cpp	ab9040dd78b1d89c
+1072	6387	7273142081355925	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_RectangleShape_qml.cpp.obj	eb01b8722bc33f4f
+536	846	7273142025792362	.rcc/qmlcache/appv6_ColorPicker_qml.cpp	92c973a0992b7dfd
+536	846	7273142025792362	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_ColorPicker_qml.cpp	92c973a0992b7dfd
+29	103	7271262433887069	v6/assets/images/2DDefault-03.svg	2e2b47756844e769
+514	790	7273142025122268	.rcc/qmlcache/appv6_HSVSlider_qml.cpp	8200950b990d51da
+514	790	7273142025122268	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_HSVSlider_qml.cpp	8200950b990d51da
+491	873	7273142025948639	.rcc/qmlcache/appv6_ColorPickerDialog_qml.cpp	1232733657462e66
+491	873	7273142025948639	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_ColorPickerDialog_qml.cpp	1232733657462e66
+117	435	7273695153197531	.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+117	435	7273695153197531	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+987	1151	7273142029101163	CMakeFiles/appv6.dir/.rcc/qrc_qmake_v6.cpp.obj	81020396598f7e34
+435	3124	7273695180142353	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_main_qml.cpp.obj	a1cfc691434b599e
+1001	5962	7273142077037778	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_ColorPickerDialog_qml.cpp.obj	70bc600db68b484d
+1055	6237	7273142079754857	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_CylinderShape_qml.cpp.obj	6996547b8fae45b7
+3698	9446	7227999705972843	CMakeFiles/appv6.dir/main.cpp.obj	4b74d00cc9a2f4d2
+1049	6641	7273142083953012	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_ColorTool_qml.cpp.obj	fa41c10bec4b4aac
+3721	9455	7227999705883925	CMakeFiles/appv6.dir/colorsampler_p.cpp.obj	63547a6d57c231fb
+3712	9480	7227999706228053	CMakeFiles/appv6.dir/colorslider_p.cpp.obj	8978da6cfa5c93b2
+990	6278	7273142080333719	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_ColorPicker_qml.cpp.obj	d8585ab5824a28fd
+3705	9761	7227999709311830	CMakeFiles/appv6.dir/colorhistorymodel.cpp.obj	a06615c2545f3814
+993	6456	7273142082084860	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_qmlcache_loader.cpp.obj	955f478baf150d5b
+1009	6342	7273142080970645	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_ColorHistory_qml.cpp.obj	b8e626b566192c96
+1023	6758	7273142085016541	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_ColorSampler_qml.cpp.obj	e61f8deeed889fe0
+1014	6351	7273142080970645	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_PropertiesWindow_qml.cpp.obj	9585c250c6d329d3
+84	120	7271265964129400	v6/assets/images/2DDefault_01.svg	e43366d740ca1
+438	1436	7273695163340420	CMakeFiles/appv6.dir/.rcc/qrc_appv6_raw_qml_0.cpp.obj	f1fa7b13aa95ac94
+3725	11410	7227999725832230	CMakeFiles/appv6.dir/colorpickerpreview.cpp.obj	81f94f562e218ad2
+1041	6060	7273142077873479	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_CustomButton_qml.cpp.obj	69a2890b91b8f087
+1028	6125	7273142078712128	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_ColorSlider_qml.cpp.obj	628abd65b636fabf
+1033	6265	7273142080133492	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_HSVSlider_qml.cpp.obj	50d3e19ede5acded
+3730	16148	7227999773100899	CMakeFiles/appv6.dir/colorwheel.cpp.obj	3391bbc0c616bb43
+3690	16443	7227999776023143	CMakeFiles/appv6.dir/appv6_autogen/mocs_compilation.cpp.obj	16bc76f59d754ffa
+3695	16740	7227999779103884	CMakeFiles/appv6.dir/appv6_qmltyperegistrations.cpp.obj	44355f03a0294c7e
+3124	4630	7273695195102220	appv6.exe	31b3ab5e9324413f
+0	27	0	CMakeFiles/clean.additional	baedbe210acaa455
+28	49	0	clean	577b940aee94fbd7
+92	212	7227999613111821	build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/ColorTools/qmldir	e6b3c7e6a853bff9
+135	215	7227999613481898	v6/RGBSlider.qml	31e1440c52687d63
+135	215	7227999613481898	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/RGBSlider.qml	31e1440c52687d63
+560	915	7273142026599641	.rcc/qmlcache/appv6_RGBSlider_qml.cpp	be886c9d30de58b0
+560	915	7273142026599641	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_RGBSlider_qml.cpp	be886c9d30de58b0
+3735	9473	7227999706258054	CMakeFiles/appv6.dir/textfielddoublevalidator.cpp.obj	ba0ff0f643971418
+1019	6907	7273142086530229	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_RGBSlider_qml.cpp.obj	70036a9da2965c05
+74	199	7227999612981778	v6/assets/alphaBackground.png	e06be054350be0b7
+74	199	7227999612981778	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/alphaBackground.png	e06be054350be0b7
+106	213	7227999613241848	v6/assets/swap.svg	e494522fa29f4cc8
+106	213	7227999613241848	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/swap.svg	e494522fa29f4cc8
+56	187	7227999612811807	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/eyedropper.svg	b2a13bd73ad30d8a
+99	212	7227999613181850	v6/qtquickcontrols2.conf	cfb1cded362e7318
+99	212	7227999613181850	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/qtquickcontrols2.conf	cfb1cded362e7318
+8	49	7271271760761042	v6/assets/images/2DPressed_05.svg	f45fe03fefaa2e3
+22	64	7228274399103621	v6/PropertiesWindow.qml	61292448c5a502d2
+22	64	7228274399103621	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/PropertiesWindow.qml	61292448c5a502d2
+576	928	7273142026814865	.rcc/qmlcache/appv6_PropertiesWindow_qml.cpp	2f0d45503ecfc741
+19	65	7271212182359660	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/SaveAsPressed.svg	679cc24c1b8af377
+23	70	7271212182419681	v6/assets/images/UploadPressed.svg	950a0f56aa57cfd6
+28	73	7271212182449690	v6/assets/images/SaveAsDefault.svg	230d8c718e0d921f
+74	109	7271262434324645	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed-06.svg	923bd415ed7c8b06
+28	73	7271212182449690	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/SaveAsDefault.svg	230d8c718e0d921f
+34	78	7271212182499695	v6/assets/images/UploadDefault.svg	2e23a601a3a7dfd2
+34	78	7271212182499695	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/UploadDefault.svg	2e23a601a3a7dfd2
+19	102	7271262433730812	v6/assets/images/2DDefault-01.svg	ea0486aa71c4fdec
+19	102	7271262433730812	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault-01.svg	ea0486aa71c4fdec
+51	94	7272745081281697	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/3DPressed-04.svg	672cae9693c8de06
+24	103	7271262433730812	v6/assets/images/2DDefault-06.svg	b27fc2c41679e63f
+24	103	7271262433730812	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault-06.svg	b27fc2c41679e63f
+29	103	7271262433887069	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault-03.svg	2e2b47756844e769
+39	104	7271262433887069	v6/assets/images/2DDefault-05.svg	a80d5ae435ff8cd8
+39	104	7271262433887069	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault-05.svg	a80d5ae435ff8cd8
+44	105	7271262434043366	v6/assets/images/2DDefault-04.svg	39a3a15578e9deb7
+51	105	7271262434043366	v6/assets/images/2DDefault-07.svg	c517341e9f17c598
+51	105	7271262434043366	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault-07.svg	c517341e9f17c598
+57	106	7271262434043366	v6/assets/images/2DPressed-05.svg	eb04566dd77c00f
+57	106	7271262434043366	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed-05.svg	eb04566dd77c00f
+69	106	7271262434199607	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed-03.svg	9967a753716fd3ea
+74	109	7271262434324645	v6/assets/images/2DPressed-06.svg	923bd415ed7c8b06
+80	114	7271262434374655	v6/assets/images/2DPressed-01.svg	3c79c1f0b32cce82
+80	114	7271262434374655	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed-01.svg	3c79c1f0b32cce82
+84	118	7271262434415772	v6/assets/images/2DPressed-02.svg	4ccf73b14df61edc
+84	118	7271262434415772	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed-02.svg	4ccf73b14df61edc
+90	123	7271262434464868	v6/assets/images/2DPressed-04.svg	d6f6c0e68a3c73f8
+90	123	7271262434464868	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed-04.svg	d6f6c0e68a3c73f8
+95	128	7271262434514877	v6/assets/images/2DPressed-07.svg	f220c03c41a93068
+95	128	7271262434514877	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed-07.svg	f220c03c41a93068
+8	49	7271271760761042	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed_05.svg	f45fe03fefaa2e3
+43	104	7272748913960339	v6/assets/images/3DDefault-03.svg	29c2b2406e3bb093
+19	51	7271271760915702	v6/assets/images/2DPressed_01.svg	cb4dd1af3e3534df
+19	51	7271271760915702	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed_01.svg	cb4dd1af3e3534df
+29	61	7271271761016973	v6/assets/images/2DPressed_04.svg	d3da18e0d896c681
+29	61	7271271761016973	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed_04.svg	d3da18e0d896c681
+23	62	7271271761016973	v6/assets/images/2DPressed_02.svg	e97ccb91cdb13c8a
+38	101	7272748913890329	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/3DDefault-02.svg	5fbb4f087a08ef7c
+23	62	7271271761016973	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed_02.svg	e97ccb91cdb13c8a
+14	50	7271271760905665	v6/assets/images/2DPressed_03.svg	f82a8699a0acd151
+63	126	7272748914170389	v6/assets/images/3DDefault-04.svg	b585a020d0c8ed01
+14	50	7271271760905665	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed_03.svg	f82a8699a0acd151
+44	73	7271271761189226	v6/assets/images/2DPressed_06.svg	bbc8b4606411d72c
+32	102	7272748913920320	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/3DDefault-01.svg	12204fe71ffe91c3
+44	73	7271271761189226	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed_06.svg	bbc8b4606411d72c
+34	69	7271271761127204	v6/assets/images/2DPressed_07.svg	432eb564e29f4de3
+34	69	7271271761127204	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DPressed_07.svg	432eb564e29f4de3
+66	112	7271265963878740	v6/assets/images/2DDefault_07.svg	f42b79fe0f4d72f1
+66	112	7271265963878740	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault_07.svg	f42b79fe0f4d72f1
+72	112	7271265963991038	v6/assets/images/2DDefault_03.svg	4fddbb066ed9c75c
+15	45	7273142018058899	v6/CylinderShape.qml	3ae833738ed36a9a
+72	112	7271265963991038	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault_03.svg	4fddbb066ed9c75c
+78	116	7271265964088546	v6/assets/images/2DDefault_05.svg	d32439f5600dd329
+78	116	7271265964088546	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault_05.svg	d32439f5600dd329
+84	120	7271265964129400	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault_01.svg	e43366d740ca1
+90	125	7271265964189419	v6/assets/images/2DDefault_04.svg	cc57820117f58a0f
+90	125	7271265964189419	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault_04.svg	cc57820117f58a0f
+96	131	7271265964246204	v6/assets/images/2DDefault_02.svg	afbb1267cdd50d09
+96	131	7271265964246204	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault_02.svg	afbb1267cdd50d09
+102	134	7271265964276178	v6/assets/images/2DDefault_06.svg	cfcd24838fca368c
+102	134	7271265964276178	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/2DDefault_06.svg	cfcd24838fca368c
+38	101	7272748913890329	v6/assets/images/3DDefault-02.svg	5fbb4f087a08ef7c
+32	102	7272748913920320	v6/assets/images/3DDefault-01.svg	12204fe71ffe91c3
+43	104	7272748913960339	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/3DDefault-03.svg	29c2b2406e3bb093
+37	93	7272745081141680	v6/assets/images/3DPressed-03.svg	5ca12338118ac5e3
+37	93	7272745081141680	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/3DPressed-03.svg	5ca12338118ac5e3
+43	93	7272745081211692	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/3DPressed-05.svg	80550d89384be965
+51	94	7272745081281697	v6/assets/images/3DPressed-04.svg	672cae9693c8de06
+57	123	7272748914140370	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/3DDefault-05.svg	67ecaeb1dba7d01a
+72	109	7272745081441730	v6/assets/images/3DPressed-02.svg	1e193af78a609a51
+72	109	7272745081441730	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/3DPressed-02.svg	1e193af78a609a51
+84	119	7272745081561772	v6/assets/images/3DPressed-01.svg	883dddbd1f6ad6d8
+84	119	7272745081561772	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/assets/images/3DPressed-01.svg	883dddbd1f6ad6d8
+22	59	7273140803869352	v6/ConeShape.qml	766e7a5d75781528
+22	59	7273140803869352	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/ConeShape.qml	766e7a5d75781528
+16	63	7273140803899356	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/SphereShape.qml	cd03e6aabf575ac2
+26	62	7273140803899356	v6/CubeShape.qml	ea0de23569b50a28
+26	62	7273140803899356	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/CubeShape.qml	ea0de23569b50a28
+626	885	7273142026214612	.rcc/qmlcache/appv6_CubeShape_qml.cpp	7f70fb1d50b73785
+598	902	7273142026537769	.rcc/qmlcache/appv6_CylinderShape_qml.cpp	b93e51c24a37c466
+626	885	7273142026214612	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_CubeShape_qml.cpp	7f70fb1d50b73785
+641	914	7273142026599641	.rcc/qmlcache/appv6_ConeShape_qml.cpp	cac7b6d6c75d016d
+641	914	7273142026599641	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_ConeShape_qml.cpp	cac7b6d6c75d016d
+551	849	7273142025792362	.rcc/qmlcache/appv6_SphereShape_qml.cpp	c357cc5ba1c36f27
+551	849	7273142025792362	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_SphereShape_qml.cpp	c357cc5ba1c36f27
+1081	5972	7273142077194072	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_CubeShape_qml.cpp.obj	b6c1911e9fd6e9ee
+1152	6225	7273142079598582	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_SphereShape_qml.cpp.obj	cf2f7d5f7f0effa6
+4775	8019	7273142097804327	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_ConeShape_qml.cpp.obj	bf7f24e36ab8cfe3
+19	85	7272888356590092	v6/RectangleShape.qml	af34d6f223be5b78
+568	875	7273142026161689	.rcc/qmlcache/appv6_RectangleShape_qml.cpp	967e6a2a492da1bd
+568	875	7273142026161689	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_RectangleShape_qml.cpp	967e6a2a492da1bd
+15	45	7273142018058899	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/CylinderShape.qml	3ae833738ed36a9a
+598	902	7273142026537769	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_CylinderShape_qml.cpp	b93e51c24a37c466
+10	55	7273695772081893	v6/main.qml	758f81fca31e0404
+10	55	7273695772081893	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/main.qml	758f81fca31e0404
+16	116	7273695772682022	.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+16	116	7273695772682022	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+121	203	7273695773562223	.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+121	203	7273695773562223	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+117	401	7273695775352601	.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+117	401	7273695775352601	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+404	1149	7273695782944923	CMakeFiles/appv6.dir/.rcc/qrc_appv6_raw_qml_0.cpp.obj	f1fa7b13aa95ac94
+401	2976	7273695801201455	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_main_qml.cpp.obj	a1cfc691434b599e
+2977	4376	7273695815090519	appv6.exe	31b3ab5e9324413f
+10	69	7273699599996614	v6/main.qml	758f81fca31e0404
+10	69	7273699599996614	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/main.qml	758f81fca31e0404
+16	137	7273699600666757	.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+16	137	7273699600666757	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+142	220	7273699601516957	.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+142	220	7273699601516957	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+137	410	7273699603240374	.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+137	410	7273699603240374	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+413	1147	7273699610765050	CMakeFiles/appv6.dir/.rcc/qrc_appv6_raw_qml_0.cpp.obj	f1fa7b13aa95ac94
+410	2857	7273699627735028	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_main_qml.cpp.obj	a1cfc691434b599e
+2857	4248	7273699641656938	appv6.exe	31b3ab5e9324413f
+9	54	7273699770868238	v6/main.qml	758f81fca31e0404
+9	54	7273699770868238	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/main.qml	758f81fca31e0404
+14	118	7273699771498369	.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+14	118	7273699771498369	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+122	199	7273699772318561	.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+122	199	7273699772318561	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+118	400	7273699774188978	.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+118	400	7273699774188978	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+403	1138	7273699781587899	CMakeFiles/appv6.dir/.rcc/qrc_appv6_raw_qml_0.cpp.obj	f1fa7b13aa95ac94
+400	3019	7273699800483442	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_main_qml.cpp.obj	a1cfc691434b599e
+3019	4412	7273699814308955	appv6.exe	31b3ab5e9324413f
+9	58	7273701462152751	v6/main.qml	758f81fca31e0404
+9	58	7273701462152751	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/main.qml	758f81fca31e0404
+16	125	7273701462812881	.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+16	125	7273701462812881	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+130	206	7273701463623059	.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+130	206	7273701463623059	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+125	409	7273701465463614	.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+125	409	7273701465463614	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+413	1156	7273701473033606	CMakeFiles/appv6.dir/.rcc/qrc_appv6_raw_qml_0.cpp.obj	f1fa7b13aa95ac94
+409	3059	7273701492112473	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_main_qml.cpp.obj	a1cfc691434b599e
+3059	4456	7273701506021073	appv6.exe	31b3ab5e9324413f
+10	55	7273702513634266	v6/main.qml	758f81fca31e0404
+10	55	7273702513634266	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/main.qml	758f81fca31e0404
+15	116	7273702514214427	.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+15	116	7273702514214427	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+120	196	7273702515034587	.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+120	196	7273702515034587	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+116	398	7273702516864990	.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+116	398	7273702516864990	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+401	1159	7273702524614055	CMakeFiles/appv6.dir/.rcc/qrc_appv6_raw_qml_0.cpp.obj	f1fa7b13aa95ac94
+398	3014	7273702543123216	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_main_qml.cpp.obj	a1cfc691434b599e
+3014	4416	7273702557063001	appv6.exe	31b3ab5e9324413f
+10	48	7273719943080406	v6/SphereShape.qml	cd03e6aabf575ac2
+10	48	7273719943080406	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/SphereShape.qml	cd03e6aabf575ac2
+20	68	7273719943182723	v6/RGBSlider.qml	31e1440c52687d63
+20	68	7273719943182723	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/RGBSlider.qml	31e1440c52687d63
+15	72	7273719943383996	v6/main.qml	758f81fca31e0404
+15	72	7273719943383996	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/main.qml	758f81fca31e0404
+25	176	7273719944382804	.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+25	176	7273719944382804	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+180	267	7273719945274408	.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+180	267	7273719945274408	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+185	310	7273719945534165	.rcc/qmlcache/appv6_SphereShape_qml.cpp	c357cc5ba1c36f27
+185	310	7273719945534165	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_SphereShape_qml.cpp	c357cc5ba1c36f27
+190	325	7273719945802367	.rcc/qmlcache/appv6_RGBSlider_qml.cpp	be886c9d30de58b0
+190	325	7273719945802367	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_RGBSlider_qml.cpp	be886c9d30de58b0
+176	478	7273719947208809	.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+176	478	7273719947208809	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_main_qml.cpp	79157084e7401b8c
+490	1313	7273719955665686	CMakeFiles/appv6.dir/.rcc/qrc_appv6_raw_qml_0.cpp.obj	f1fa7b13aa95ac94
+485	2740	7273719970008896	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_SphereShape_qml.cpp.obj	cf2f7d5f7f0effa6
+482	2984	7273719972390342	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_RGBSlider_qml.cpp.obj	70036a9da2965c05
+478	3635	7273719978901485	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_main_qml.cpp.obj	a1cfc691434b599e
+3635	5032	7273719992735537	appv6.exe	31b3ab5e9324413f
+10	97	7273724698733011	v6/CylinderShape.qml	3ae833738ed36a9a
+10	97	7273724698733011	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/CylinderShape.qml	3ae833738ed36a9a
+15	98	7273724698733011	v6/CubeShape.qml	ea0de23569b50a28
+15	98	7273724698733011	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/CubeShape.qml	ea0de23569b50a28
+21	99	7273724698889456	v6/RectangleShape.qml	af34d6f223be5b78
+21	99	7273724698889456	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/RectangleShape.qml	af34d6f223be5b78
+26	99	7273724698889456	v6/CustomButton.qml	34169345a49b69e8
+26	99	7273724698889456	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/CustomButton.qml	34169345a49b69e8
+33	103	7273724699094560	v6/HSVSlider.qml	162621b713eba049
+33	103	7273724699094560	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/HSVSlider.qml	162621b713eba049
+39	106	7273724699124655	v6/PropertiesWindow.qml	61292448c5a502d2
+39	106	7273724699124655	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/PropertiesWindow.qml	61292448c5a502d2
+45	109	7273724699156880	v6/ConeShape.qml	766e7a5d75781528
+45	109	7273724699156880	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/ConeShape.qml	766e7a5d75781528
+50	219	7273724700200842	.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+50	219	7273724700200842	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+256	360	7273724701522896	.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+256	360	7273724701522896	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+227	376	7273724701679179	.rcc/qmlcache/appv6_CustomButton_qml.cpp	ab9040dd78b1d89c
+227	376	7273724701679179	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_CustomButton_qml.cpp	ab9040dd78b1d89c
+223	390	7273724701789836	.rcc/qmlcache/appv6_RectangleShape_qml.cpp	967e6a2a492da1bd
+223	390	7273724701789836	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_RectangleShape_qml.cpp	967e6a2a492da1bd
+232	393	7273724701789836	.rcc/qmlcache/appv6_ConeShape_qml.cpp	cac7b6d6c75d016d
+232	393	7273724701789836	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_ConeShape_qml.cpp	cac7b6d6c75d016d
+219	396	7273724701789836	.rcc/qmlcache/appv6_HSVSlider_qml.cpp	8200950b990d51da
+219	396	7273724701789836	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_HSVSlider_qml.cpp	8200950b990d51da
+248	402	7273724701897582	.rcc/qmlcache/appv6_CubeShape_qml.cpp	7f70fb1d50b73785
+248	402	7273724701897582	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_CubeShape_qml.cpp	7f70fb1d50b73785
+242	409	7273724702084776	.rcc/qmlcache/appv6_CylinderShape_qml.cpp	b93e51c24a37c466
+242	409	7273724702084776	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_CylinderShape_qml.cpp	b93e51c24a37c466
+237	430	7273724702232990	.rcc/qmlcache/appv6_PropertiesWindow_qml.cpp	2f0d45503ecfc741
+237	430	7273724702232990	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_PropertiesWindow_qml.cpp	2f0d45503ecfc741
+445	1462	7273724712586737	CMakeFiles/appv6.dir/.rcc/qrc_appv6_raw_qml_0.cpp.obj	f1fa7b13aa95ac94
+433	2897	7273724727004657	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_CustomButton_qml.cpp.obj	69a2890b91b8f087
+439	3011	7273724728048497	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_CubeShape_qml.cpp.obj	b6c1911e9fd6e9ee
+452	3075	7273724728781085	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_RectangleShape_qml.cpp.obj	eb01b8722bc33f4f
+442	3145	7273724729508568	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_PropertiesWindow_qml.cpp.obj	9585c250c6d329d3
+436	3208	7273724730086897	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_ConeShape_qml.cpp.obj	bf7f24e36ab8cfe3
+449	3293	7273724730932390	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_CylinderShape_qml.cpp.obj	6996547b8fae45b7
+430	3448	7273724732462545	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_HSVSlider_qml.cpp.obj	50d3e19ede5acded
+3448	4868	7273724746569521	appv6.exe	31b3ab5e9324413f
+9	48	7273725922292569	v6/CylinderShape.qml	3ae833738ed36a9a
+9	48	7273725922292569	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/CylinderShape.qml	3ae833738ed36a9a
+14	128	7273725923021587	.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+14	128	7273725923021587	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+134	211	7273725923956419	.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+134	211	7273725923956419	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+129	243	7273725924216840	.rcc/qmlcache/appv6_CylinderShape_qml.cpp	b93e51c24a37c466
+129	243	7273725924216840	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_CylinderShape_qml.cpp	b93e51c24a37c466
+243	1098	7273725932706554	CMakeFiles/appv6.dir/.rcc/qrc_appv6_raw_qml_0.cpp.obj	f1fa7b13aa95ac94
+246	2117	7273725942981461	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_CylinderShape_qml.cpp.obj	6996547b8fae45b7
+2117	3527	7273725956979262	appv6.exe	31b3ab5e9324413f
+9	43	7273727459835584	v6/RectangleShape.qml	af34d6f223be5b78
+9	43	7273727459835584	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/RectangleShape.qml	af34d6f223be5b78
+13	113	7273727460563808	.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+13	113	7273727460563808	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+113	188	7273727461448572	.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+113	188	7273727461448572	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+117	224	7273727461739486	.rcc/qmlcache/appv6_RectangleShape_qml.cpp	967e6a2a492da1bd
+117	224	7273727461739486	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_RectangleShape_qml.cpp	967e6a2a492da1bd
+227	948	7273727468989959	CMakeFiles/appv6.dir/.rcc/qrc_appv6_raw_qml_0.cpp.obj	f1fa7b13aa95ac94
+224	2020	7273727479591905	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_RectangleShape_qml.cpp.obj	eb01b8722bc33f4f
+2020	3420	7273727493584932	appv6.exe	31b3ab5e9324413f
+15	104	7273728956284160	v6/CubeShape.qml	ea0de23569b50a28
+15	104	7273728956284160	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/CubeShape.qml	ea0de23569b50a28
+22	114	7273728956424178	v6/SphereShape.qml	cd03e6aabf575ac2
+22	114	7273728956424178	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/SphereShape.qml	cd03e6aabf575ac2
+34	122	7273728956594219	v6/HSVSlider.qml	162621b713eba049
+34	122	7273728956594219	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/HSVSlider.qml	162621b713eba049
+28	123	7273728956554240	v6/CustomButton.qml	34169345a49b69e8
+28	123	7273728956554240	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/CustomButton.qml	34169345a49b69e8
+47	125	7273728956684245	v6/PropertiesWindow.qml	61292448c5a502d2
+47	125	7273728956684245	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/PropertiesWindow.qml	61292448c5a502d2
+40	128	7273728956704270	v6/ConeShape.qml	766e7a5d75781528
+40	128	7273728956704270	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/ConeShape.qml	766e7a5d75781528
+55	129	7273728956704270	v6/RGBSlider.qml	31e1440c52687d63
+55	129	7273728956704270	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/RGBSlider.qml	31e1440c52687d63
+61	253	7273728957972924	.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+61	253	7273728957972924	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+289	399	7273728959403264	.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+289	399	7273728959403264	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+258	423	7273728959553294	.rcc/qmlcache/appv6_CustomButton_qml.cpp	ab9040dd78b1d89c
+258	423	7273728959553294	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_CustomButton_qml.cpp	ab9040dd78b1d89c
+262	443	7273728959763338	.rcc/qmlcache/appv6_CubeShape_qml.cpp	7f70fb1d50b73785
+262	443	7273728959763338	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_CubeShape_qml.cpp	7f70fb1d50b73785
+283	455	7273728959873362	.rcc/qmlcache/appv6_ConeShape_qml.cpp	cac7b6d6c75d016d
+283	455	7273728959873362	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_ConeShape_qml.cpp	cac7b6d6c75d016d
+267	455	7273728959873362	.rcc/qmlcache/appv6_SphereShape_qml.cpp	c357cc5ba1c36f27
+267	455	7273728959873362	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_SphereShape_qml.cpp	c357cc5ba1c36f27
+277	466	7273728960003382	.rcc/qmlcache/appv6_HSVSlider_qml.cpp	8200950b990d51da
+277	466	7273728960003382	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_HSVSlider_qml.cpp	8200950b990d51da
+272	467	7273728960023402	.rcc/qmlcache/appv6_RGBSlider_qml.cpp	be886c9d30de58b0
+272	467	7273728960023402	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_RGBSlider_qml.cpp	be886c9d30de58b0
+254	476	7273728960123411	.rcc/qmlcache/appv6_PropertiesWindow_qml.cpp	2f0d45503ecfc741
+254	476	7273728960123411	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_PropertiesWindow_qml.cpp	2f0d45503ecfc741
+496	1472	7273728970167790	CMakeFiles/appv6.dir/.rcc/qrc_appv6_raw_qml_0.cpp.obj	f1fa7b13aa95ac94
+479	3154	7273728986949760	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_CustomButton_qml.cpp.obj	69a2890b91b8f087
+482	3227	7273728987607681	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_PropertiesWindow_qml.cpp.obj	9585c250c6d329d3
+492	3228	7273728987607681	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_RGBSlider_qml.cpp.obj	70036a9da2965c05
+485	3310	7273728988495773	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_ConeShape_qml.cpp.obj	bf7f24e36ab8cfe3
+499	3323	7273728988606084	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_SphereShape_qml.cpp.obj	cf2f7d5f7f0effa6
+488	3365	7273728989046634	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_CubeShape_qml.cpp.obj	b6c1911e9fd6e9ee
+476	3397	7273728989318936	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_HSVSlider_qml.cpp.obj	50d3e19ede5acded
+3398	4838	7273729003698394	appv6.exe	31b3ab5e9324413f
+9	45	7273740664564369	v6/SphereShape.qml	cd03e6aabf575ac2
+9	45	7273740664564369	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/v6/SphereShape.qml	cd03e6aabf575ac2
+15	128	7273740665299125	.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+15	128	7273740665299125	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appv6.cmake	43e0e9286d71dc85
+128	203	7273740666187675	.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+128	203	7273740666187675	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qrc_appv6_raw_qml_0.cpp	cf25b4933b1781dd
+132	241	7273740666505690	.rcc/qmlcache/appv6_SphereShape_qml.cpp	c357cc5ba1c36f27
+132	241	7273740666505690	E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmlcache/appv6_SphereShape_qml.cpp	c357cc5ba1c36f27
+244	1008	7273740674240572	CMakeFiles/appv6.dir/.rcc/qrc_appv6_raw_qml_0.cpp.obj	f1fa7b13aa95ac94
+241	2053	7273740684609535	CMakeFiles/appv6.dir/.rcc/qmlcache/appv6_SphereShape_qml.cpp.obj	cf2f7d5f7f0effa6
+2053	3443	7273740698442918	appv6.exe	31b3ab5e9324413f

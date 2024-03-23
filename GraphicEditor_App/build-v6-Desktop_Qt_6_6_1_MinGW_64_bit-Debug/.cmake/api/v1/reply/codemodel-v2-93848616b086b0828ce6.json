@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-641813f4f0c6451a17a3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "v6",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-2078197f51ba0ef8f956.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-46abf76fffcbf8f41aec.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e16cfcdbcf20e3976894.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-c783778bdce8bc2c724f.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appv6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appv6-Debug-4362e67b8e0e9f96ea52.json",
+					"name" : "appv6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appv6_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appv6_autogen-Debug-5005dcedb584f0557589.json",
+					"name" : "appv6_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appv6_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appv6_autogen_timestamp_deps-Debug-f17f29af7d8f4a56a9e9.json",
+					"name" : "appv6_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appv6_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appv6_qmlimportscan-Debug-c59877a4f438a074be6e.json",
+					"name" : "appv6_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appv6_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appv6_qmllint-Debug-75c27aacba18151614d5.json",
+					"name" : "appv6_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appv6_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appv6_qmllint_json-Debug-650b22c3e8ca5f099221.json",
+					"name" : "appv6_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appv6_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appv6_qmllint_module-Debug-d7205b7ed6a0ac10cac6.json",
+					"name" : "appv6_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appv6_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appv6_qmltyperegistration-Debug-f7a738bd8b02458a9fff.json",
+					"name" : "appv6_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appv6_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appv6_tooling-Debug-87d46dbfcb18c060e3cd.json",
+					"name" : "appv6_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/build-v6-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "E:/FACULTATE/AN 3/SEMESTRUL 1/IS/Varianta cu Color Picker/v6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
